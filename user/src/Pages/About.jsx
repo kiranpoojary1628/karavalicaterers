@@ -50,11 +50,11 @@ const About = () => {
           }}
         >
           <h1 style={{ color: "#111", fontSize: "2.8rem" }}>
-            About Karavali Caterers
+            About Caterers
           </h1>
 
           <p style={{ color: "#222" }}>
-            Karavali Caterers is not just a catering service — it is a culinary
+            Caterers is not just a catering service — it is a culinary
             experience built on tradition, trust, and taste. We believe food is
             the heart of every celebration, and our mission is to make every
             event memorable through exceptional cuisine and professional
@@ -62,7 +62,7 @@ const About = () => {
           </p>
 
           <p style={{ color: "#222" }}>
-            Over the years, Karavali Caterers has grown from a humble beginning
+            Over the years, Caterers has grown from a humble beginning
             into a recognized name in premium catering services. Our growth has
             been organic, powered by word-of-mouth, repeat customers, and the
             satisfaction of thousands of guests who have enjoyed our food.
@@ -83,7 +83,7 @@ const About = () => {
           <p style={{ color: "#222" }}>
             Each event taught us something new. Each client shaped our approach.
             Each challenge strengthened our commitment to excellence. Today,
-            Karavali Caterers stands as a symbol of reliability and taste.
+            Caterers stands as a symbol of reliability and taste.
           </p>
 
           <h2 style={{ marginTop: "40px", color: "#111" }}>
@@ -161,7 +161,7 @@ const About = () => {
           </h2>
 
           <p style={{ color: "#222" }}>
-            Behind Karavali Caterers is a dedicated team of chefs, service staff,
+            Behind Caterers is a dedicated team of chefs, service staff,
             coordinators, and support members who work together seamlessly to
             deliver successful events.
           </p>
@@ -171,7 +171,7 @@ const About = () => {
           </h2>
 
           <p style={{ color: "#222" }}>
-            Clients trust Karavali Caterers because we are transparent,
+            Clients trust Caterers because we are transparent,
             dependable, and consistent. Many of our customers return to us for
             multiple events — a testament to our service quality.
           </p>
@@ -193,7 +193,7 @@ const About = () => {
               marginTop: "40px",
             }}
           >
-            Karavali Caterers is not just about food — it’s about creating
+            Caterers is not just about food — it’s about creating
             experiences that people remember.
           </p>
         </div>

@@ -49,7 +49,7 @@ const Contact = () => {
           }}
         >
           <h1 style={{ color: "#111", marginBottom: "20px" }}>
-            Contact Karavali Caterers
+            Contact Caterers
           </h1>
 
           <p style={{ color: "#333", marginBottom: "30px" }}>
@@ -69,7 +69,7 @@ const Contact = () => {
 
           <p style={{ color: "#222", marginTop: "15px" }}>
             <strong>📍 Address:</strong><br />
-            Karavali Caterers<br />
+            Caterers<br />
             Near City Center<br />
             Mangaluru, Karnataka – 575001
           </p>

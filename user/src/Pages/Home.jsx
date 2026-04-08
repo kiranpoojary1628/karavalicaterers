@@ -75,7 +75,7 @@ const Home = () => {
         transition={{ duration: 0.6 }}
       >
 
-        <h1>Karavali Caterers</h1>
+        <h1>Caterers</h1>
         <p>Premium catering for every occasion</p>
 
         {/* 🔥 ADMIN BUTTON (TEMP — for testing) */}

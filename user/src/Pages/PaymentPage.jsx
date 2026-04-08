@@ -97,7 +97,7 @@ const PaymentPage = () => {
         {/* 🔥 MERCHANT INFO */}
         <div className="merchant-box">
           <p>Paying to</p>
-          <h4>Karavali Caterers</h4>
+          <h4>Caterers</h4>
           <span className="merchant-id">karavalicaterers@yapl</span>
         </div>
 

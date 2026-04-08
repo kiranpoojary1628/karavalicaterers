@@ -223,7 +223,7 @@ app.post("/api/book", async (req, res) => {
       await transporter.sendMail({
         from: config.EMAIL_USER,
         to: customer.email,
-        subject: "🎉 Booking Confirmed - Karavali Caterers",
+        subject: "🎉 Booking Confirmed - Caterers",
         html: `
           <h2>Hi ${customer.name},</h2>
           <p>Your booking has been successfully received.</p>
@@ -235,7 +235,7 @@ app.post("/api/book", async (req, res) => {
 
           <br/>
           <p>We will contact you soon.</p>
-          <p>Thank you for choosing <b>Karavali Caterers</b> ❤️</p>
+          <p>Thank you for choosing <b>Caterers</b> ❤️</p>
         `
       });
     } catch (err) {
@@ -610,7 +610,7 @@ app.patch("/api/delivery/status/:id", async (req, res) => {
           </p>
 
           <p>
-          Thank you for choosing Karavali Caterers
+          Thank you for choosing Caterers
           </p>
         `
 

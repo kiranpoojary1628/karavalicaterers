@@ -139,7 +139,7 @@ const Navbar = () => {
             "none"
         }}
       >
-        Karavali Caterers
+        Caterers
       </Link>
 
       <div
